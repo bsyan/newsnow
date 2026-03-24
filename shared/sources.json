@@ -45,7 +45,7 @@
   "coolapk": {
     "title": "今日最热",
     "name": "酷安",
-    "type": "hottest",
+   // "type": "hottest",
     "column": "tech",
     "home": "https://coolapk.com",
     "color": "green",
@@ -134,7 +134,7 @@
   },
   "douyin": {
     "name": "抖音",
-    "type": "hottest",
+   // "type": "hottest",
     "column": "china",
     "home": "https://www.douyin.com",
     "color": "gray",
@@ -153,7 +153,7 @@
   "tieba": {
     "title": "热议",
     "name": "百度贴吧",
-    "type": "hottest",
+   // "type": "hottest",
     "column": "china",
     "home": "https://tieba.baidu.com",
     "color": "blue",
@@ -161,7 +161,7 @@
   },
   "toutiao": {
     "name": "今日头条",
-    "type": "hottest",
+   // "type": "hottest",
     "column": "china",
     "home": "https://www.toutiao.com",
     "color": "red",
