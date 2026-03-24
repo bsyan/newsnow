@@ -139,6 +139,7 @@
     "home": "https://www.douyin.com",
     "color": "gray",
     "interval": 600000
+    "disabled": "手动禁用"
   },
   "hupu": {
     "title": "主干道热帖",
@@ -165,6 +166,7 @@
     "home": "https://www.toutiao.com",
     "color": "red",
     "interval": 600000
+    "disabled": "手动禁用"
   },
   "ithome": {
     "name": "IT之家",
@@ -358,6 +360,7 @@
     "color": "blue",
     "interval": 600000,
     "title": "热搜"
+    "disabled": "手动禁用"
   },
   "bilibili-hot-search": {
     "name": "哔哩哔哩",
@@ -367,6 +370,7 @@
     "color": "blue",
     "interval": 600000,
     "title": "热搜"
+    "disabled": "手动禁用"
   },
   "bilibili-hot-video": {
     "name": "哔哩哔哩",
@@ -377,6 +381,7 @@
     "color": "blue",
     "interval": 600000,
     "title": "热门视频"
+    "disabled": "手动禁用"
   },
   "bilibili-ranking": {
     "name": "哔哩哔哩",
@@ -387,6 +392,7 @@
     "color": "blue",
     "interval": 1800000,
     "title": "排行榜"
+    "disabled": "手动禁用"
   },
   "kuaishou": {
     "name": "快手",
@@ -396,6 +402,7 @@
     "home": "https://www.kuaishou.com",
     "color": "orange",
     "interval": 600000
+    "disabled": "手动禁用"
   },
   "kaopu": {
     "name": "靠谱新闻",
